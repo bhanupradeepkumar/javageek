@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="practice of constructor and multi threading ....">
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/FinalPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/FinalPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/ThisReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/ThisReference2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/pracdi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/Bhanu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/Pradeep.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="final static">
+      <change afterPath="$PROJECT_DIR$/src/StaticMembers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/geekforgeeks/MultiThreadPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekforgeeks/MultiThreadPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689567658036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final static this">
+      <option name="closed" value="true" />
+      <created>1689614911246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689614911246</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,6 +93,7 @@
     <MESSAGE value="hello threadtest" />
     <MESSAGE value="constructor" />
     <MESSAGE value="practice of constructor and multi threading ...." />
-    <option name="LAST_COMMIT_MESSAGE" value="practice of constructor and multi threading ...." />
+    <MESSAGE value="final static" />
+    <option name="LAST_COMMIT_MESSAGE" value="final static" />
   </component>
 </project>

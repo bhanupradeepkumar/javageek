@@ -8,6 +8,9 @@ public class MultiThreadPractice {
 
         Thread ty = new Thread(t1);
         Thread to = new Thread(s1);
+
+        System.out.println(Thread.currentThread().getId());
+
         ty.start();
         to.start();
 
@@ -23,9 +26,11 @@ class Teacher  extends Thread{
                 this.msg = msg;
             }
             public void run(){
+
                 int i =200;
 
                 do{
+
                     i--;
                     System.out.println("salary is :"+salary+"msg is :"+msg);
                 }while (i!=0);

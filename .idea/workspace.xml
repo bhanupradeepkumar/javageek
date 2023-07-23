@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="inheritance method overloading overriding super static constructors">
-      <change afterPath="$PROJECT_DIR$/src/codechef/BtryHealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/CandyDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/CandyWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/GoodTurn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/JerryChase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codechef/Top10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/AbstractCls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/InterfacesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/InterfacesExample2.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="code cheff basic programming problems pushed">
+      <change afterPath="$PROJECT_DIR$/src/JuneSix/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechef/arrays/BeginnerFriendly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codechef/arrays/PracticePerfect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codechef/arrays/PracticePerfect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
@@ -108,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689705707458</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="code cheff basic programming problems pushed">
+      <option name="closed" value="true" />
+      <created>1689921485302</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689921485302</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,6 +123,7 @@
     <MESSAGE value="final static" />
     <MESSAGE value="final static this reference" />
     <MESSAGE value="inheritance method overloading overriding super static constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance method overloading overriding super static constructors" />
+    <MESSAGE value="code cheff basic programming problems pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="code cheff basic programming problems pushed" />
   </component>
 </project>

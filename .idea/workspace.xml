@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="operator overloading private public access modifiers">
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/SingleLevelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/SingleLevelTestIsA.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="has a relation and adhar number for person">
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/AllStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/DiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/PyramidPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JuneEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuneEight/JuneEight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="AllStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekforgeeks.patterns.AllStars" />
+      <module name="LearnFromGeekJavaio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekforgeeks.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AllStars" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\gorrek\AppData\Roaming\Subversion</configuration>
@@ -127,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690338442132</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="has a relation and adhar number for person">
+      <option name="closed" value="true" />
+      <created>1690353214988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690353214988</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,7 +170,8 @@
     <MESSAGE value="code cheff basic programming problems pushed" />
     <MESSAGE value="june06 practice" />
     <MESSAGE value="operator overloading private public access modifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator overloading private public access modifiers" />
+    <MESSAGE value="has a relation and adhar number for person" />
+    <option name="LAST_COMMIT_MESSAGE" value="has a relation and adhar number for person" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

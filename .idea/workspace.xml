@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="june06 practice">
-      <change afterPath="$PROJECT_DIR$/src/JuneEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSeven/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSeven/ConstructorTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSeven/PhoneTestOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSeven/SirTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSix/CricketerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSix/MenuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneSix/MenuTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/cave/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/cave/BengalTiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/cave/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/cave/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/house/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/house/FarmHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/river/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/world/jungle/river/Frog.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="operator overloading private public access modifiers">
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/SingleLevelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/SingleLevelTestIsA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JuneSix/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuneSix/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JuneEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuneEight/JuneEight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690084741388</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="operator overloading private public access modifiers">
+      <option name="closed" value="true" />
+      <created>1690338442132</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690338442132</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +141,17 @@
     <MESSAGE value="inheritance method overloading overriding super static constructors" />
     <MESSAGE value="code cheff basic programming problems pushed" />
     <MESSAGE value="june06 practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="june06 practice" />
+    <MESSAGE value="operator overloading private public access modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator overloading private public access modifiers" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,7 +1,7 @@
 package com.geekforgeeks.patterns;
 import java.util.Scanner;
 
-public class AllStars {
+public class JioStarsAll {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();

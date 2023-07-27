@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="has a relation and adhar number for person">
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/AllStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/DiamondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/PyramidPattern.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="patterns like PyramidPattern and DiamondPattern">
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/BaseFivePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/DiamondPracticePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/PatternAtTheBest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/SquarePattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/AllStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/JioStarsAll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +45,6 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="AllStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekforgeeks.patterns.AllStars" />
-      <module name="LearnFromGeekJavaio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geekforgeeks.patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.AllStars" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\gorrek\AppData\Roaming\Subversion</configuration>
@@ -155,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690353214988</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="patterns like PyramidPattern and DiamondPattern">
+      <option name="closed" value="true" />
+      <created>1690403860151</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690403860151</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,7 +161,8 @@
     <MESSAGE value="june06 practice" />
     <MESSAGE value="operator overloading private public access modifiers" />
     <MESSAGE value="has a relation and adhar number for person" />
-    <option name="LAST_COMMIT_MESSAGE" value="has a relation and adhar number for person" />
+    <MESSAGE value="patterns like PyramidPattern and DiamondPattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="patterns like PyramidPattern and DiamondPattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

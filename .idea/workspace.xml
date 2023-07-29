@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="Reverse triangle and right angle triangle">
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/InstrumentTestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/PassingObjectReturningObject.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="passing object and reference abstract test instrument test">
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/FinalMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +22,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2SePUK5ke9w6tPtX4ohBVMQgHtU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -159,8 +160,27 @@
       <option name="project" value="LOCAL" />
       <updated>1690454656260</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="passing object and reference abstract test instrument test">
+      <option name="closed" value="true" />
+      <created>1690614736991</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690614736991</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -178,7 +198,8 @@
     <MESSAGE value="patterns like PyramidPattern and DiamondPattern" />
     <MESSAGE value="pattern for marathon for c++ like user enter input and it should print diamond and another square" />
     <MESSAGE value="Reverse triangle and right angle triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse triangle and right angle triangle" />
+    <MESSAGE value="passing object and reference abstract test instrument test" />
+    <option name="LAST_COMMIT_MESSAGE" value="passing object and reference abstract test instrument test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

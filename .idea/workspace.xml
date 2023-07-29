@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="pattern for marathon for c++ like user enter input and it should print diamond and another square">
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/ReverseRightAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/ReverseRightAngleSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekforgeeks/patterns/RightAnglePattern.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="Reverse triangle and right angle triangle">
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/InstrumentTestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/PassingObjectReturningObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\gorrek\AppData\Roaming\Subversion</configuration>
@@ -151,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690446990618</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Reverse triangle and right angle triangle">
+      <option name="closed" value="true" />
+      <created>1690454656260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690454656260</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,7 +177,8 @@
     <MESSAGE value="has a relation and adhar number for person" />
     <MESSAGE value="patterns like PyramidPattern and DiamondPattern" />
     <MESSAGE value="pattern for marathon for c++ like user enter input and it should print diamond and another square" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern for marathon for c++ like user enter input and it should print diamond and another square" />
+    <MESSAGE value="Reverse triangle and right angle triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse triangle and right angle triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

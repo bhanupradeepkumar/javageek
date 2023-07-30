@@ -10,3 +10,10 @@ public class ProgramsRough {
 //hilo pro
 //sync test
 
+//hashset
+//practice
+
+//songs + swaptest2
+//to practice
+
+

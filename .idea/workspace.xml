@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="static and final test">
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/FinalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/ArrayListTest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/HiLoPri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/LinkedListPrac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/ProgramsRough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/SyncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneTen/UserDefinedExceptionTest.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="ArrayList Hilo priority &#10;linkedlist log ...passed through iterator &#10;used for each loop to fetch">
+      <change afterPath="$PROJECT_DIR$/src/JuneEleven/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEleven/SingleTonDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEleven/Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneEleven/TreeSetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JuneTen/ProgramsRough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JuneTen/ProgramsRough.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -183,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690619595277</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ArrayList Hilo priority &#10;linkedlist log ...passed through iterator &#10;used for each loop to fetch">
+      <option name="closed" value="true" />
+      <created>1690713746117</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690713746117</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +222,8 @@
     <MESSAGE value="Reverse triangle and right angle triangle" />
     <MESSAGE value="passing object and reference abstract test instrument test" />
     <MESSAGE value="static and final test" />
-    <option name="LAST_COMMIT_MESSAGE" value="static and final test" />
+    <MESSAGE value="ArrayList Hilo priority &#10;linkedlist log ...passed through iterator &#10;used for each loop to fetch" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList Hilo priority &#10;linkedlist log ...passed through iterator &#10;used for each loop to fetch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,5 +234,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

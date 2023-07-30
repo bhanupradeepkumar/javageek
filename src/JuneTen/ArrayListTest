@@ -1,0 +1,37 @@
+import java.util.ArrayList;
+an arraylist should be created of non primitive data type
+like create
+ArrayList<Integer> a1 = new ArrayList<Integer>();
+here Integer is wrapper class of primitive int type
+
+note that it is a collection
+
+a1.add(10);
+a1.add(20);
+
+note that add function by default add element at end of arrayList
+
+can create empty or capacity as well like 10 can use like normal
+
+third way is pass the elements in hashset like that
+
+ArrayList Working
+like vectors in c++ and lists in pythonn
+
+
+internally use normal arrays only
+preallocate some space and after full
+do the following
+create a new array of double size
+copy elements from old space to new
+free old space
+
+time complexity Big O of 1
+
+advantages one is cash friendliness
+processors prefetch the items cache
+random access is available in arrays
+
+
+
+

@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="passing object and reference abstract test instrument test">
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/FinalMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JuneEight/StaticTest.java" afterDir="false" />
+    <list default="true" id="f040444d-2800-4a3e-8134-25eec1b2fea3" name="Changes" comment="static and final test">
+      <change afterPath="$PROJECT_DIR$/src/JuneEight/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/ArrayListTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/HiLoPri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/LinkedListPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/ProgramsRough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/SyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuneTen/UserDefinedExceptionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690614736991</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="static and final test">
+      <option name="closed" value="true" />
+      <created>1690619595277</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690619595277</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +214,8 @@
     <MESSAGE value="pattern for marathon for c++ like user enter input and it should print diamond and another square" />
     <MESSAGE value="Reverse triangle and right angle triangle" />
     <MESSAGE value="passing object and reference abstract test instrument test" />
-    <option name="LAST_COMMIT_MESSAGE" value="passing object and reference abstract test instrument test" />
+    <MESSAGE value="static and final test" />
+    <option name="LAST_COMMIT_MESSAGE" value="static and final test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
